@@ -1,0 +1,80 @@
+*{
+    font-family: "Inter";
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+body{
+    background-color: hsl(0, 0%, 8%);
+}
+p{
+    color: white;
+    font-size: 14px;
+}
+.topic{
+    text-align: center;
+    background-color: hsl(0, 0%, 12%);
+    width: 330px;
+    height: auto;
+    padding: 25px;
+    margin: 50px auto;
+    border-radius: 12px;
+    
+}
+.image{
+    margin-top: 20px;
+    width: 100px;
+    border-radius: 100px;
+}
+.jess{
+    color: white;
+    margin-bottom: 5px;
+}
+.london{
+    color: hsl(75, 94%, 57%);
+    margin-top: 3px;
+    margin-bottom: 23px;
+    font-weight: bold;
+}
+.github{
+    color: white;
+    background-color: hsl(0, 0%, 20%);
+    padding: 12px;
+    margin: 20px 14px 14px 14px;
+    border-radius: 8px;
+    font-weight: bold;
+}
+.frontend{
+    color: white;
+    background-color: hsl(0, 0%, 20%);
+    padding: 12px;
+    margin: 14px;
+    border-radius: 8px;
+    font-weight: bold;
+}
+.linked{
+    color: white;
+    background-color: hsl(0, 0%, 20%);
+    padding: 12px;
+    margin: 14px;
+    border-radius: 8px;
+    font-weight: bold;
+}
+.twitter{
+    color: white;
+    background-color: hsl(0, 0%, 20%);
+    padding: 12px;
+    margin: 14px;
+    border-radius: 8px;
+    font-weight: bold;
+}
+.insta{
+    color: white;
+    background-color: hsl(0, 0%, 20%);
+    padding: 12px;
+    margin: 14px;
+    border-radius: 8px;
+    font-weight: bold;
+}
